@@ -23,8 +23,8 @@ jobs:
           run: dotnet publish JJInternationalKorea.github.io.csproj --configuration Release
           
         # changes the base-tag in index.html from '/' to 'JJInternationalKorea.github.io' to match GitHub Pages repository subdirectory
-        - name: Change base-tag in index.html from / to JJInternationalKorea.github.io
-          run: sed -i 's/<base href="\/" \/>/<base href="\/JJInternationalKorea.github.io\/" \/>/g' bin/Release/netstandard2.1/publish/wwwroot/index.html
+        #- name: Change base-tag in index.html from / to JJInternationalKorea.github.io
+        #  run: sed -i 's/<base href="\/" \/>/<base href="\/JJInternationalKorea.github.io\/" \/>/g' bin/Release/netstandard2.1/publish/wwwroot/index.html
           
         # add .nojekyll file
         - name: Add .nojekyll file
