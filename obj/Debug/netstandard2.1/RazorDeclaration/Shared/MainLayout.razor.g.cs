@@ -5,7 +5,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace JJInternationalKorea.github.io.Shared
+namespace jjinternationalkorea.github.io.Shared
 {
     #line hidden
     using System;
@@ -64,14 +64,14 @@ using Microsoft.JSInterop;
 #nullable disable
 #nullable restore
 #line 8 "C:\Users\yangw\source\repos\JJInternationalKorea.github.io\_Imports.razor"
-using JJInternationalKorea.github.io;
+using jjinternationalkorea.github.io;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 9 "C:\Users\yangw\source\repos\JJInternationalKorea.github.io\_Imports.razor"
-using JJInternationalKorea.github.io.Shared;
+using jjinternationalkorea.github.io.Shared;
 
 #line default
 #line hidden

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mv87uMEzdaZiVsnob45hD8dXpT1xiG3Cp/i3AXU9XBKVdojIuoQ4k2zgXwLIGH3z5banpwHz3WfGB7VV31dNUw==",
+  "dgSpecHash": "P26LWTjk4Bc19JLMbFiOj9GCPJop+5v44zRSfAGERR4gBd7t2fh4I47tUJqM1aM7ODvFF4M0U9Mq4qroakW/2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yangw\\source\\repos\\JJInternationalKorea.github.io\\JJInternationalKorea.github.io.csproj",
+  "projectFilePath": "C:\\Users\\yangw\\source\\repos\\JJInternationalKorea.github.io\\jjinternationalkorea.github.io.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yangw\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.8\\microsoft.aspnetcore.authorization.3.1.8.nupkg.sha512",
     "C:\\Users\\yangw\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.8\\microsoft.aspnetcore.components.3.1.8.nupkg.sha512",
