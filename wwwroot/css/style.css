@@ -319,13 +319,6 @@ a.btn.white_btn {
 	max-width: 100%;
 }
 
-.imagelayout {
-		width: 250px;
-		height: 250px;
-		padding-right: 5px;
-		padding-bottom: 5px;
-}
-
 .color_black p,
 .color_black ul,
 .color_black ul li {
@@ -551,6 +544,13 @@ a:focus {
 	width: 100%;
 	display: flex;
 	justify-content: center;
+}
+
+.imagelayout {
+		width: 250px;
+		height: 250px;
+		padding-right: 5px;
+		padding-bottom: 5px;
 }
 
 .modal-backdrop.show {

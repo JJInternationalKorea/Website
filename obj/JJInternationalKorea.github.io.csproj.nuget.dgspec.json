@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yangw\\source\\repos\\JJInternationalKorea.github.io\\jjinternationalkorea.github.io.csproj": {}
+    "C:\\Users\\yangw\\source\\repos\\jjinternationalkorea.github.io\\jjinternationalkorea.github.io.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yangw\\source\\repos\\JJInternationalKorea.github.io\\jjinternationalkorea.github.io.csproj": {
+    "C:\\Users\\yangw\\source\\repos\\jjinternationalkorea.github.io\\jjinternationalkorea.github.io.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yangw\\source\\repos\\JJInternationalKorea.github.io\\jjinternationalkorea.github.io.csproj",
+        "projectUniqueName": "C:\\Users\\yangw\\source\\repos\\jjinternationalkorea.github.io\\jjinternationalkorea.github.io.csproj",
         "projectName": "jjinternationalkorea.github.io",
-        "projectPath": "C:\\Users\\yangw\\source\\repos\\JJInternationalKorea.github.io\\jjinternationalkorea.github.io.csproj",
+        "projectPath": "C:\\Users\\yangw\\source\\repos\\jjinternationalkorea.github.io\\jjinternationalkorea.github.io.csproj",
         "packagesPath": "C:\\Users\\yangw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yangw\\source\\repos\\JJInternationalKorea.github.io\\obj\\",
+        "outputPath": "C:\\Users\\yangw\\source\\repos\\jjinternationalkorea.github.io\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,10 +55,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.2.1, )"
-            },
-            "Syncfusion.Blazor": {
-              "target": "Package",
-              "version": "[18.3.0.38, )"
             },
             "System.Net.Http.Json": {
               "target": "Package",
