@@ -1637,23 +1637,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yangw\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Wooseok\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yangw\\source\\repos\\Website\\Website.csproj",
+      "projectUniqueName": "C:\\Users\\Wooseok\\source\\JJInternationalKorea\\Website\\Website.csproj",
       "projectName": "Website",
-      "projectPath": "C:\\Users\\yangw\\source\\repos\\Website\\Website.csproj",
-      "packagesPath": "C:\\Users\\yangw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yangw\\source\\repos\\Website\\obj\\",
+      "projectPath": "C:\\Users\\Wooseok\\source\\JJInternationalKorea\\Website\\Website.csproj",
+      "packagesPath": "C:\\Users\\Wooseok\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wooseok\\source\\JJInternationalKorea\\Website\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\yangw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Wooseok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1662,10 +1663,11 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://kudos-development.pkgs.visualstudio.com/_packaging/KudosArtifacts/nuget/v3/index.json": {}
+        "https://pkgs.dev.azure.com/kudos-development/_packaging/KudosArtifacts/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "projectReferences": {}
         }
       },
@@ -1677,6 +1679,7 @@
     },
     "frameworks": {
       "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",
@@ -1712,7 +1715,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
