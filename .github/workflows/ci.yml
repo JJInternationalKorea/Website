@@ -6,7 +6,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         # Checkout the code
-        - uses: actions/checkout@v2
+        - name: Checkout
+          uses: actions/checkout@v2
+          with:
+            fetch-depth: 100
 
         # Install .NET Core SDK
         - name: Setup .NET Core
