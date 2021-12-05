@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wooseok\\source\\JJInternationalKorea\\Website\\Website.csproj": {}
+    "C:\\Users\\Wooseok\\source\\Website\\Website.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wooseok\\source\\JJInternationalKorea\\Website\\Website.csproj": {
+    "C:\\Users\\Wooseok\\source\\Website\\Website.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wooseok\\source\\JJInternationalKorea\\Website\\Website.csproj",
+        "projectUniqueName": "C:\\Users\\Wooseok\\source\\Website\\Website.csproj",
         "projectName": "Website",
-        "projectPath": "C:\\Users\\Wooseok\\source\\JJInternationalKorea\\Website\\Website.csproj",
+        "projectPath": "C:\\Users\\Wooseok\\source\\Website\\Website.csproj",
         "packagesPath": "C:\\Users\\Wooseok\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wooseok\\source\\JJInternationalKorea\\Website\\obj\\",
+        "outputPath": "C:\\Users\\Wooseok\\source\\Website\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
